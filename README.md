@@ -6,7 +6,7 @@ Dean Chung
 
 1. Integers, Strings, Booleans
 2. Value variable:          Reference variable: 
-3. Returns line by line
+3. move = getPlayerMove(theBoard)
 4. if computerletter == 'X'
 5. FOR I IN MoveList:
 6. board (10 strings representing the board.)
